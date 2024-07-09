@@ -1,1 +1,5 @@
-ApPLe
+YES
+NO
+YES
+NO
+YES
